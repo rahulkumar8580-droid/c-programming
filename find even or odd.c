@@ -14,6 +14,5 @@ int main()
         printf("%d is an odd number.",a);
     }
     getch();
- return0;
-}
+   return 0;
 }
